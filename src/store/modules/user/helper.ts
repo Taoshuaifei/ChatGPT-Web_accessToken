@@ -17,7 +17,7 @@ export function defaultSetting(): UserState {
     userInfo: {
       avatar: 'https://qiniu.handsomefly.cn/2023/05/19/ade6c50f4d568.jpg',
       name: 'TSF',
-      description: 'Maxim: 男人不能说不行(‾◡◝)',
+      description: '男人不能说不行(‾◡◝)',
     },
   }
 }
